@@ -1,6 +1,6 @@
 # sample_flutter_app
 
-A flutter app sample.
+A flutter app sample with GetX.
 
 ## Getting Started
 
